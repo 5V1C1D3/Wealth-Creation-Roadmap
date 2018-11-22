@@ -1,2 +1,2 @@
-# _Budget_Beauty_
-Household / Family budgeting project. {In progress}
+# Wealth Creation Roadmap
+What it really takes to create wealth and how to do it. {In progress}
